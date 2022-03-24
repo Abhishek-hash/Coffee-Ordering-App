@@ -2,7 +2,9 @@
 It is a coffee ordering app which uses uses email-intent. 
 We can add toppings like- Whipped cream, chocolate, etc on our coffee.
 The price changes according to the toppings added.
-
+# The base price is 5 rs. 
+# If whipped cream is added = price + 1 rs.
+# If chocolate is added = price + 2 rs.
 
 
 
